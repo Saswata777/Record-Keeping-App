@@ -1,0 +1,14 @@
+.header{
+    width: 600px;
+    height: 70px;
+    border-radius: 10px 10px 0px 0px;
+    background-color: rgb(7, 7, 148);
+    color: rgb(216, 221, 255);
+    font-size: 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align:center;
+    padding-top: 10px;
+    position: absolute;
+    z-index: 2;
+    margin-left: 370px;
+}
